@@ -180,6 +180,7 @@ The generated QR code can be scanned using a QR-compatible camera or scanner.
 QR-Code-Generator/
 │
 ├── simple_qr.py
+├── Palak Sharma Github Profile1.png
 ├── advanced_qr.py
 ├── Palak Sharma Github Profile.png
 │
